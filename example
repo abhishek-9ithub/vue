@@ -1,3 +1,7 @@
+/**********************************/
+Child Parent Component Comunication
+/**********************************/
+
 You can use $emit method for this purpose.
 v-on directive captures the child components events that is emitted by $emit
 
@@ -22,3 +26,5 @@ export default {
     }
   }
 }
+--------------------------------------------------------------------
+--------------------------------------------------------------------
